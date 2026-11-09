@@ -1,0 +1,12 @@
+{
+  "name": "brightshoal",
+  "description": "The official Brightshoal plugins.",
+  "owner": { "name": "Brightshoal", "email": "hello@brightshoal.si" },
+  "plugins": [
+    {
+      "name": "brightshoal",
+      "source": "./plugins/brightshoal",
+      "description": "Brightshoal in your AI assistant: read your leads, conversations, assistants, analytics and Search work, and propose changes you approve in the Brightshoal console."
+    }
+  ]
+}

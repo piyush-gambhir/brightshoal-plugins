@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "brightshoal": {
+      "type": "streamable-http",
+      "url": "https://api.brightshoal.si/mcp",
+      "extensions": { "com.openai": { "auth": { "type": "oauth" } } }
+    }
+  }
+}

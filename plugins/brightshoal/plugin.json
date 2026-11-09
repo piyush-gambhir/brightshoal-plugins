@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "brightshoal",
+  "version": "0.1.0",
+  "description": "Brightshoal in your AI assistant: read your leads, conversations, assistants, analytics and Search work, and propose changes you approve in the Brightshoal console.",
+  "author": { "name": "Brightshoal", "email": "hello@brightshoal.si", "url": "https://brightshoal.si" },
+  "homepage": "https://brightshoal.si/developers#mcp",
+  "repository": "https://github.com/piyush-gambhir/brightshoal-plugins",
+  "license": "MIT",
+  "keywords": ["brightshoal", "leads", "seo", "aeo", "geo", "mcp"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Brightshoal",
+        "shortDescription": "Your leads, conversations and Search work, with changes you approve.",
+        "longDescription": "Brightshoal in your AI assistant: read your leads, conversations, assistants, analytics and Search work, and propose changes you approve in the Brightshoal console. Every change opens a review in your Brightshoal console and runs only after you approve it.",
+        "developerName": "Brightshoal",
+        "category": "Productivity",
+        "websiteURL": "https://brightshoal.si",
+        "privacyPolicyURL": "https://brightshoal.si/privacy",
+        "termsOfServiceURL": "https://brightshoal.si/terms",
+        "brandColor": "#2b3aec",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/icon.png"
+      }
+    }
+  }
+}

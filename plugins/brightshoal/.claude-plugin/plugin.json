@@ -1,0 +1,22 @@
+{
+  "name": "brightshoal",
+  "version": "0.1.0",
+  "description": "Brightshoal in your AI assistant: read your leads, conversations, assistants, analytics and Search work, and propose changes you approve in the Brightshoal console.",
+  "author": {
+    "name": "Brightshoal",
+    "email": "hello@brightshoal.si",
+    "url": "https://brightshoal.si"
+  },
+  "homepage": "https://brightshoal.si/developers#mcp",
+  "repository": "https://github.com/piyush-gambhir/brightshoal-plugins",
+  "license": "MIT",
+  "keywords": [
+    "brightshoal",
+    "leads",
+    "seo",
+    "aeo",
+    "geo",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://brightshoal.si/privacy"
+}

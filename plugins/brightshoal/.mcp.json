@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "brightshoal": { "type": "http", "url": "https://api.brightshoal.si/mcp" }
+  }
+}
