@@ -29,7 +29,7 @@ The first time a tool runs, your client opens Brightshoal in the browser. Sign i
 
 ## What it can do
 
-- **Read** with your own role: leads, conversations, assistants, knowledge, forms, scheduling, analytics and Search (pages, findings, drafts, AI answer tracking and To do items).
+- **Read** with your own role: leads, conversations, assistants, knowledge, bookings, chat analytics and Search (sites, findings, drafts, AI answer visibility and To do items).
 - **Propose changes**, such as editing an assistant draft or updating a lead. A change never runs on its own: it opens a review in your Brightshoal console and runs only after you approve it there.
 - Keys, users, payments and outbound sending are not available through the plugin.
 
